@@ -1,0 +1,1 @@
+Customer Transaction app that displays customer transaction data details from an API in a table and you can filter table by name or amount. you can also show graph that displays the total transaction amount per day for the selected customer by clicking on customer row, show graph or select customer from below select. using HTML, CSS,JS and bootstrap
