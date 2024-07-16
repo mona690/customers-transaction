@@ -68,5 +68,10 @@ canvas {
 @media (max-width: 576px) {
   .table {
     font-size: 8px;
+
+  }
+  .btn-info {
+    font-size:  8px !important;
+    
   }
 }
