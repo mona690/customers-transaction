@@ -65,7 +65,7 @@ canvas {
   transform: translate(-50%, -50%);
 }
 
-@media (max-width: 776px) {
+@media (max-width: 476px) {
   .table {
     font-size: 10px;
   }
